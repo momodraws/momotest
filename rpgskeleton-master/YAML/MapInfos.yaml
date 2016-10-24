@@ -1,0 +1,15 @@
+---
+1: !ruby/object:RPG::MapInfo
+  scroll_x: 272
+  name: MAP001
+  expanded: false
+  order: 1
+  scroll_y: 208
+  parent_id: 0
+2: !ruby/object:RPG::MapInfo
+  scroll_x: 320
+  name: kaedeface
+  expanded: false
+  order: 2
+  scroll_y: 320
+  parent_id: 0
