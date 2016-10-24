@@ -1,8 +1,8 @@
 ---
 1: !ruby/object:RPG::MapInfo
-  scroll_x: 272
-  name: MAP001
+  scroll_x: 320
+  name: fountain shrine
   expanded: false
   order: 1
-  scroll_y: 208
+  scroll_y: 320
   parent_id: 0
