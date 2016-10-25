@@ -11,5 +11,19 @@
   name: MAP002
   expanded: false
   order: 2
-  scroll_y: 368
+  scroll_y: 415
+  parent_id: 0
+3: !ruby/object:RPG::MapInfo
+  scroll_x: 272
+  name: another map
+  expanded: false
+  order: 3
+  scroll_y: 208
+  parent_id: 0
+4: !ruby/object:RPG::MapInfo
+  scroll_x: 272
+  name: yet another map
+  expanded: false
+  order: 4
+  scroll_y: 208
   parent_id: 0
